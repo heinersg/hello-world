@@ -1,3 +1,3 @@
 # hello-world
 Repositorio de introducción
-Hello; I am tryinf to understand how this works.
+Hello; I am trying to understand how this works.
